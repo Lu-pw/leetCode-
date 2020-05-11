@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589089373 source:e:\mycppspace\bilibili\10advanced_data_structure\04numarray.cpp
+	<iostream>
+	<vector>
+

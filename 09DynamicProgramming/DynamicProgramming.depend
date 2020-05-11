@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587886754 source:e:\mycppspace\bilibili\dynamicprogramming\04coinchange.cpp
+	<iostream>
+	<vector>
+
+1587955082 source:e:\mycppspace\bilibili\dynamicprogramming\06lengthoflis.cpp
+	<iostream>
+	<vector>
+
