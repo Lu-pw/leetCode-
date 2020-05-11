@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587976964 source:e:\mycppspace\bilibili\greedyalgorithm\03removekdigits.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1588318632 source:e:\mycppspace\bilibili\greedyalgorithm\06get_minmum_stop.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+

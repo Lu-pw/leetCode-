@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1584507941 source:e:\mycppspace\bilibili\stack_queue\02queue.cpp
+	<iostream>
+	<queue>
+
+1584509038 source:e:\mycppspace\bilibili\stack_queue\03queue2stack.cpp
+	<queue>
+	<iostream>
+
+1584509766 source:e:\mycppspace\bilibili\stack_queue\04stack2queue.cpp
+	<stack>
+	<iostream>
+
+1584512685 source:e:\mycppspace\bilibili\stack_queue\05stack_min.cpp
+	<iostream>
+	<stack>
+
+1584518620 source:e:\mycppspace\bilibili\stack_queue\06check_is_vaild_order.cpp
+	<iostream>
+	<stack>
+	<queue>
+
+1584581687 source:e:\mycppspace\bilibili\stack_queue\09findkthlargest.cpp
+	<iostream>
+	<vector>
+	<queue>
+
+1584584700 source:e:\mycppspace\bilibili\stack_queue\10addnum.cpp
+	<queue>
+	<iostream>
+
